@@ -32,12 +32,9 @@
 #include <xsi_command.h>
 #include <xsi_desktop.h>
 
-#include <QWidget>
-#include <QApplication>
-#include <QEvent>
-#include <QKeyEvent>
-#include <Qt>
-
+#include <QtGui\qwidget.h>
+#include <QtGui\qapplication.h>
+#include <QtGui\qevent.h>
 
 namespace QtSoftimage
 {
